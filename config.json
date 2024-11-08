@@ -1,0 +1,23 @@
+{
+    "IPv6PrefixDomainList": [
+        ""
+    ],
+    "MACAddressesList": [
+        {
+            "MAC": "",
+            "Alias": ""
+        },
+        {
+            "MAC": "",
+            "Alias": ""
+        },
+        {
+            "MAC": "",
+            "Alias": ""
+        },
+        {
+            "MAC": "",
+            "Alias": ""
+        }
+    ]
+}
