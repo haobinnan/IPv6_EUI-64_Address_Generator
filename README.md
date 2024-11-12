@@ -1,5 +1,7 @@
 # IPv6 EUI-64 Address Generator
 
+![Screenshot](IPv6 EUI-64 Address Generator.jpg)
+
 ## 概述
 本软件旨在帮助用户生成符合 EUI-64 标准的 IPv6 地址，特别适用于家用动态 IPv6 环境。用户可以通过提供最新的公网 IPv6 前缀（通过输入域名或 IPv6 地址），与指定的 MAC 地址组合生成完整的 IPv6 地址。软件提供了便捷的设置功能，支持管理常用的 IPv6 前缀、域名/IPv6 地址列表以及 MAC 地址，同时允许为 MAC 地址指定别名。
 
